@@ -80,7 +80,7 @@ Three roles are supported: **Donor**, **General User (Recipient)**, and **Admin*
 
 > 📹 A full **12-minute walkthrough** of the system is available — covering all major features including authentication, donor search, blood requests, payment, and admin management.
 
-*[[Add your video link here — upload to YouTube/Google Drive and paste the URL](https://drive.google.com/file/d/1PG_3vc8WyON3YcedBxCF4MlWxc0ytlMM/view?usp=drive_link)]*
+*[A Video Demo of the Full Project.](https://drive.google.com/file/d/1PG_3vc8WyON3YcedBxCF4MlWxc0ytlMM/view?usp=drive_link)]*
 
 ---
 
@@ -144,7 +144,7 @@ The full Software Requirements Specification (SRS) report covers:
 - Class diagram, DFD, State Machine, Sequence diagrams
 - Deployment architecture
 
-📎 *[[Upload the PDF to the repo and link it here, e.g.:](https://github.com/JobayerFaisal/Blood_Donation_Apex_Oracle/blob/main/CSE%20347%20project%20-%20Heart2Blood.pdf)]*
+📎 *[[View Full SRS Report (PDF)](./Heart2Blood_SRS_Report.pdf)](https://drive.google.com/file/d/1sTAJQdCi93AgrCPnUt_J739GSYmt6nZP/view?usp=sharing)]*
 `[View Full SRS Report (PDF)](./Heart2Blood_SRS_Report.pdf)`
 
 ---
